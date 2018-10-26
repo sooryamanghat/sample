@@ -20,7 +20,7 @@ class Loan1 extends Interest{
 		Scanner sc =new Scanner(System.in);
 		switch(ch) {
 		case 1 : 
-				System.out.println("Interest rate =27% \n Enter the loan amount : ");
+				System.out.println("123Interest rate =27% \n Enter the loan amount : ");
 				la = sc .nextInt();
 				System.out.println("Please withdraw at the counter...");
 				break;
