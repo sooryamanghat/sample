@@ -42,7 +42,7 @@ class Loan1 extends Interest{
 			  	else {
 			  		System.out.println("Interest rate = 10% \n Enter the loan amount:");
 					la = sc .nextInt();
-					System.out.println("Please withdraw at the counter...");
+					System.out.println("Please Please withdraw at the counter...");
 					break;
 					
 			  	}
